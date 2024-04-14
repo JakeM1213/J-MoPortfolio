@@ -1,0 +1,20 @@
+{
+    "title": "Graphic Design",
+    "items": [
+        {
+            "name": "Life in Motion",
+            "image": "Images/Life in Motion/Home INDESIGN.jpg",
+            "description": "Life in Motion Book. Made with Adobe Photoshop and Indesign. 2024."
+        },
+        {
+            "name": "Fashion in the 2010s",
+            "image": "Images/Fash Book/mag cover.JPG",
+            "description": "Fashion In The 2010s. Made with Adobe Indesign. 2023."
+        },
+        {
+            "name": "Futurism",
+            "image": "Images/futurism/mainfesto2.jpg",
+            "description": "Futurism Posters. Made With Adobe Illustrator. 2023."
+        }
+    ]
+}

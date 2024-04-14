@@ -1,0 +1,20 @@
+{
+    "title": "Video",
+    "items": [
+        {
+            "name": "FKA Twigs - which way",
+            "image": "Images/Videos/Fka.png",
+            "description": "Reimagining a Music Video. Made with Adobe After Effects. 2023."
+        },
+        {
+            "name": "Parallels",
+            "image": "Images/Videos/IMG_3459.jpg",
+            "description": "Parallels between Cities and Forests. Made with Adobe After Effects. 2023."
+        },
+        {
+            "name": "BeReal",
+            "image": "Images/Videos/bereal.png",
+            "description": "BeReal Animation. Made With Adobe After Effects. 2023."
+        }
+    ]
+}

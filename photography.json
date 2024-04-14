@@ -1,0 +1,80 @@
+{
+    "title": "Photography",
+    "items": [
+        {
+            "name": "Salem Witch Trials Fine Art Collection",
+            "image": "Images/Photography/Salem.png",
+            "description": "Salem Witch Stories - A Fine Arts Photography Project I did on the victims of The Salem Witch Trials. Fine Art Techniques Used, Adobe Photoshop, Adobe Lightroom, and portraits shot with Nikon DSLR Cameras. 2020-2022."
+        },
+        {
+            "name": "Jake 1",
+            "image": "Images/Photography/Jake 1.jpg",
+            "description": "Part of the Salem Witch Trials series. Shot with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 4",
+            "image": "Images/Photography/Jake 4.jpg",
+            "description": "Another photograph from the Salem Witch Trials series. Captured with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 7",
+            "image": "Images/Photography/Jake 7.jpg",
+            "description": "Continuing the Salem Witch Trials series. Photographed using Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 8",
+            "image": "Images/Photography/Jake 8.jpg",
+            "description": "Further exploration in the Salem Witch Trials series. Utilizing Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 6",
+            "image": "Images/Photography/Jake 6.jpg",
+            "description": "A significant piece in the Salem Witch Trials series. Taken with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 9",
+            "image": "Images/Photography/Jake 9.jpg",
+            "description": "Explorative shot in the Salem Witch Trials series. Captured with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Jake 11",
+            "image": "Images/Photography/Jake 11.jpg",
+            "description": "Concluding the Salem Witch Trials series. Shot with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Martha Carrier 2",
+            "image": "Images/Photography/Martha Carrier 2.jpg",
+            "description": "Detailed capture of Martha Carrier, a victim in the Salem Witch Trials series. Shot with Nikon DSLR Cameras."
+        },
+        {
+            "name": "Other Photography - Till1",
+            "image": "Images/Photography/till1.jpeg",
+            "description": "A unique perspective in photography. Edited with Adobe Lightroom."
+        },
+        {
+            "name": "Other Photography - Till2",
+            "image": "Images/Photography/till2.jpg",
+            "description": "Another creative shot in my photography portfolio. Edited using Adobe Lightroom."
+        },
+        {
+            "name": "Me",
+            "image": "Images/Photography/Me.jpeg",
+            "description": "A personal portrait, part of my ongoing projects. Shot with Nikon DSLR."
+        },
+        {
+            "name": "Nonna",
+            "image": "Images/Photography/Nonna.jpg",
+            "description": "Portrait of my grandmother, affectionately known as 'Nonna'. Captured with Nikon DSLR Cameras."
+        },
+        {
+            "name": "DSC_0790",
+            "image": "Images/Photography/DSC_0790.jpg",
+            "description": "Exploring depth and texture in photography. Nikon DSLR."
+        },
+        {
+            "name": "DSC_0803",
+            "image": "Images/Photography/DSC_0803.jpg",
+            "description": "Focusing on light and shadow in this piece. Photographed using Nikon DSLR Cameras."
+        }
+    ]
+}

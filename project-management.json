@@ -1,0 +1,20 @@
+{
+    "title": "Project Management",
+    "items": [
+        {
+            "name": "Like A Flame",
+            "image": "Images/pm/FINAL DIG.jpg",
+            "description": "Like A Flame Project. Group project where we had to create, edit, and advertise a music video. Music Video shot on Blackmagic Cameras and edited with Adobe Premiere Pro. Digipak made with Adobe Photoshop. 2022."
+        },
+        {
+            "name": "Social Media 1",
+            "image": "Images/pm/social1.PNG",
+            "description": "First of the social media promotional images for the project."
+        },
+        {
+            "name": "Social Media 2",
+            "image": "Images/pm/social2.PNG",
+            "description": "Second of the social media promotional images for the project."
+        }
+    ]
+}
