@@ -183,8 +183,53 @@ document.addEventListener('DOMContentLoaded', function() {
         if (event.origin !== 'https://jakem1213.github.io/thelibraryofbabel/') {
             return; 
         }
-       
+        // Handle message from iframe
     });
-  
+   // JavaScript to toggle footer visibility when scrolling to the bottom
 
+});
+document.addEventListener('DOMContentLoaded', function () {
+    var modal = document.getElementById('fullscreenModal');
+    var modalImg = document.getElementById('fullscreenImage');
+    var closeModal = document.getElementsByClassName('close')[0];
+
+    // Add click event to all images with class 'content-media'
+    var images = document.getElementsByClassName('content-media');
+    for (var i = 0; i < images.length; i++) {
+        images[i].onclick = function () {
+            modal.style.display = 'block';
+            modalImg.src = this.src;
+        }
+    }
+
+    // Close the modal when the close button is clicked
+    closeModal.onclick = function () {
+        modal.style.display = 'none';
+    }
+
+    // Close the modal when clicked outside of the image
+    modal.onclick = function (event) {
+        if (event.target === modal) {
+            modal.style.display = 'none';
+        }
+    }
+});
+
+// scripts.js
+
+document.addEventListener('DOMContentLoaded', function () {
+    const images = document.querySelectorAll('.clickable');
+    const overlay = document.getElementById('overlay');
+    const overlayImg = document.getElementById('overlayImg');
+
+    images.forEach(image => {
+        image.addEventListener('click', () => {
+            overlayImg.src = image.src;
+            overlay.classList.add('active');
+        });
+    });
+
+    overlay.addEventListener('click', () => {
+        overlay.classList.remove('active');
+    });
 });
