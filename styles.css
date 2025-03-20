@@ -400,3 +400,9 @@ iframe {
     margin: 20px 0;
     border: none; /* Optional: Remove border if unnecessary */
 }
+.image-grid img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+}
